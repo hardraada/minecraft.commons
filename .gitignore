@@ -1,0 +1,5 @@
+target/classes/Canary.inf
+target/classes/com/hardraada/minecraft/commons/PluginBase.class
+target/classes/com/hardraada/minecraft/commons/SimpleMessageReceiver.class
+target/classes/com/hardraada/minecraft/commons/SimplePlayer.class
+target/maven-archiver/pom.properties
